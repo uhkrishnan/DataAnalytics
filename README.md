@@ -1,6 +1,6 @@
 # Data analytics projects
 
-1. Sales insights:
+## 1. Sales insights:
 
  - AIM: 
  To unlock sales insights that were not visible before to sales team for decision support and to automate them to reduce manual time spent in data gathering.
