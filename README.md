@@ -13,3 +13,4 @@
  - SKILLS:
  
  SQL, Power BI
+ Data quering, data cleaning, data transformation, data visualisation
