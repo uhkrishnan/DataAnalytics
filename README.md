@@ -1,6 +1,6 @@
 # Data analytics projects
 
-## 1. Sales insights:
+## Sales insights:
 
  - AIM: 
  
