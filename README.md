@@ -18,7 +18,7 @@
 
 ## HR Analytics:
 
-- AIM:
+* AIM:
 
 To create a dashboard that will answer the below questions:
 	- Percentage of employees that are present on a particular day
@@ -31,7 +31,7 @@ To create a dashboard that will answer the below questions:
 		+ Identify trends if any
 		+ Understand staff availability on a monthly basis
   
- - END RESULT:
+* END RESULT:
 - Data was imported from the excel sheet maintained by HR department
 - Data was transformed using power query
 	+ General template and formula were created so that all transformations work on future sheets
@@ -40,7 +40,7 @@ To create a dashboard that will answer the below questions:
 - Dashboard was created
 	+ New measures added using DAX
  
- - SKILLS:
+* SKILLS:
  ```
  Excel, Power BI: Data transformation, data visualisation, DAX
 ```
