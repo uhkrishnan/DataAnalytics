@@ -22,14 +22,14 @@
 
   - To create a dashboard that will answer the below questions:
     * Percentage of employees that are present on a particular day
-		+ Historical data as well
-		+ Understand staff availability on a monthly basis to plan implementations
+      + Historical data as well
+      + Understand staff availability on a monthly basis to plan implementations
     * Percentage of employess working from home
-		+ When do employees mostly work from home
-		+ Preferred day
+      + When do employees mostly work from home
+      + Preferred day
     * Percentage of employees that are on sick leave
-		+ Identify trends if any
-		+ Understand staff availability on a monthly basis
+      + Identify trends if any
+      + Understand staff availability on a monthly basis
   
 - END RESULT:
   - Data was imported from the excel sheet maintained by HR department
